@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/pentakotalokes3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pentakotalokes3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lokesh-pentakota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-pentakota" height="30" width="40" /></a>
-<a href="https://instagram.com/lokesh_pentakota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh_pentakota" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lokesh__pentakota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh_pentakota" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@pentakotalokesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pentakotalokesh1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pentakotalokesh67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pentakotalokesh67" height="30" width="40" /></a>
 </p>
